@@ -1,6 +1,6 @@
 # Satellogic EarthView dataset
 
-![iquaflow](https://github.com/satellogic/satellogic-earthview/raw/main/png/iquaflow_logo_transp.png) <br />
+![satellogic-earthview](https://github.com/satellogic/satellogic-earthview/raw/main/png/dataset_samples.png) <br />
 
 ## Overview
 

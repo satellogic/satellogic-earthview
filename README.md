@@ -1,8 +1,8 @@
 # Satellogic EarthView dataset
 
-## Overview
+![iquaflow](https://github.com/satellogic/satellogic-earthview/raw/main/png/iquaflow_logo_transp.png) <br />
 
-<img src="https://satellogic-earthview.s3.us-west-2.amazonaws.com/html/dataset_samples_op1.gif" alt="EarthView Project Image">
+## Overview
 
 This repository illustrates how to explore the Satellogic EarthView dataset hosted on AWS as part of the Open Data Registry Program.
 

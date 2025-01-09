@@ -1,6 +1,6 @@
 # Satellogic EarthView dataset
 
-![satellogic-earthview](https://github.com/satellogic/satellogic-earthview/raw/main/png/dataset_samples.png) <br />
+![satellogic-earthview](https://github.com/satellogic/satellogic-earthview/main/docs/source/_static/img/dataset_samples.png) <br />
 
 ## Overview
 

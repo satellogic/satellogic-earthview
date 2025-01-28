@@ -1,0 +1,12 @@
+name: satellogic
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python>=3.8
+- pyarrow
+- geopandas
+- folium
+- rasterio
+- pyproj
+- ipykernel

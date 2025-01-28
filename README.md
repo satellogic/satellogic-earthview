@@ -20,6 +20,8 @@ In order to run the notebook you will need the following Python libraries
 - Rasterio
 - Pyproj
 
+We also provide an environment.yml with the appropriate libraries to run the notebook in SageMaker Studio Lab (SMSL).
+
 ## Citation 
 
 If you use our EarthView dataset in your research please consider citing:
